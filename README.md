@@ -7,7 +7,7 @@ However, there are some situations where goto might be appropriate or even neces
 3.Jumping to a common cleanup section: In complex functions where resources need to be released before exiting, goto can be used to jump to a common cleanup section to avoid duplicating cleanup code.
 
 
-2.second File i have written code quetion i mentiond below but this code is about Function Structuring properly
+2.second file i have written code quetion i mentiond below but this code is about Function Structuring properly
 
 Write the function string index(s,t) which returns the position of the rightmost 
 occurrence of t in s , or - 1 if there is none.  
